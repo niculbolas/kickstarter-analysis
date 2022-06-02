@@ -1,9 +1,8 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-
-
 ### Purpose
+This project deals with a large number of data for kickstarter fundraisers.  The goal here was to help an imaginary friend determine how they could best create a kickstarter campaign that would end in success rather than fail or become canceled.
 
 ## Analysis and Challenges
 
